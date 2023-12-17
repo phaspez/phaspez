@@ -7,4 +7,4 @@ I like to create stuff.
 ## Stats: 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaspez&show_icons=true&theme=transparent)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=phaspez&style=for-the-badge&color=brightgreen)
